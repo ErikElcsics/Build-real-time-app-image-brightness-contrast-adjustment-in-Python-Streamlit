@@ -11,8 +11,11 @@ Features
 - Download Adjusted Image: Save the enhanced image in PNG format.
 
 Installation
+
 Clone the Repository
+
 git clone https://github.com/ErikElcsics/Build-real-time-app-image-brightness-contrast-adjustment-in-Python-Streamlit.git
+
 cd your-repo-name
 
 Install Dependencies
