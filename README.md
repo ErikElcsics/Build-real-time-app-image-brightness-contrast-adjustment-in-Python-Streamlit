@@ -2,7 +2,7 @@
 
 This project is a Streamlit-based web application that allows users to adjust the brightness and contrast of images in real time. Using the PIL (Pillow) library, users can enhance their images and download the adjusted version.
 
-Features
+# Features
 
 - Upload Images: Supports JPG, JPEG, and PNG formats.
 - Adjust Brightness: Control brightness using an interactive slider.
@@ -10,7 +10,7 @@ Features
 - Preview Changes: View the original and enhanced images side by side.
 - Download Adjusted Image: Save the enhanced image in PNG format.
 
-Installation
+# Installation
 
 Clone the Repository
 
@@ -18,15 +18,15 @@ git clone https://github.com/ErikElcsics/Build-real-time-app-image-brightness-co
 
 cd your-repo-name
 
-Install Dependencies
+# Install Dependencies
 pip install -r requirements.txt
 
-Usage
+# Usage
 Run the Streamlit App
 streamlit run ImageBrightnessContrastAdjustmentPythonStreamlit.py
 
 
-Interact with the App
+# Interact with the App
 
 - Upload an image using the file uploader.
 - Adjust brightness using sliders.
@@ -34,7 +34,7 @@ Interact with the App
 - View the enhanced image preview.
 - Click the Download button to save the enhanced image.
 
-Dependencies
+# Dependencies
 Streamlit: For the web-based user interface.
 Pillow (PIL): For image processing.
 
